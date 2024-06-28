@@ -1,0 +1,13 @@
+name: PeruCovid
+title: PeruCovid
+username:
+account: qlab-pucp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4077559
+bundleId: 7581412
+url: https://qlab-pucp.shinyapps.io/PeruCovid/
+when: 1692316311.81366
+lastSyncTime: 1692316311.81371
+asMultiple: FALSE
+asStatic: FALSE

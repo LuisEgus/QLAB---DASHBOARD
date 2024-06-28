@@ -1,0 +1,13 @@
+name: Dashboard
+title: Dashboard
+username:
+account: qlab-pucp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8745392
+bundleId: 7335378
+url: https://qlab-pucp.shinyapps.io/Dashboard/
+when: 1686589406.36199
+lastSyncTime: 1686589406.362
+asMultiple: FALSE
+asStatic: FALSE
